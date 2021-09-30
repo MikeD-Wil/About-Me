@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    text-align: right;
+}
+h1{
+    width:50vw;
+    height: 10vh
+    margin: auto;
+}
+ul{
+    text-align: right;
+}
+.image {
+    max-width 80vw;
+    height: auto
+}
+
+ul {
+    list-style-type: disc;
+}
+
+@media (max-width: 400px) {
+    .image {
+        max-width: 80vw;
+        height:auto;
+    }
+}
+h1 {
+    width: 40vw;
+    height: auto;
+}
+}
