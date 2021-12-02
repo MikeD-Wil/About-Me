@@ -1,18 +1,18 @@
 body {
-    background-color: black;
+    /* background-color: black; */
     text-align: right;
 }
 h1{
     width:50vw;
-    height: 10vh
+    height: 10vh;
     margin: auto;
 }
 ul{
     text-align: right;
 }
 .image {
-    max-width 80vw;
-    height: auto
+    max-width: 80vw;
+    height: auto;
 }
 
 ul {
@@ -29,4 +29,14 @@ h1 {
     width: 40vw;
     height: auto;
 }
+/* id */
+
+#cloud{
+    width: 50%;
+    margin: auto
+}
+/* class */
+
+.krogerImg{
+
 }
